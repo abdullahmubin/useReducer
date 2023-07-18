@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 205px;
+  margin: auto;
+}
+
+.todoItem {
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid;
+}
+
+.todoItem p {
+  float: left;
+}
+
+.actionType {
+  float: right;
+  margin-top: 15px;
+}
